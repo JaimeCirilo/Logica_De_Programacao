@@ -1,0 +1,27 @@
+O QUE PRECISAMOS PARA PROGRAMAR?
+	- Varaveis (onde a gente guarda informação)
+		(GUARDA UMA INFORMAÇÃO POR VEZ)
+- Estruturas de dados: (lista, tupla, dicionário, conjunto)
+- Comandos de entrada e saída de dados:
+	*entrada (input(), open(), =...)
+	*saída (print(), ...)
+
+- Incio e fim de comando ou bloco de comando;
+- Tipos primitivos (quais os tipos de dados)
+	*String (texto)
+	*Int (números inteiros sem casa decimal)
+	*Float (números com casas decimais)
+	*Bool (valores True ou False)
+- Conversores(srt(),int(),float(),bool())
+- Operadores:
+	* Operadores matemáticos (+, -, /, *, //, %, **)
+		O resultado dessa operação será um número ou texto
+	* Operadores relacionais(>, <, <=, >=, ==, !=) 
+		O resultado dessa operação será um True ou False
+	* Operadores Lógicos (and, or, not)
+
+- Estrutura de condição (if, elife, else)
+- Estrutura de repetição
+	* Estrutura determinada (for -> eu sei quantas vezes o programa precisa repetir)
+	* Esturutra indetermiada (while -> eu não sei quantas vezes precisa repetir)
+- Função (criar as próprias funções -> def)
